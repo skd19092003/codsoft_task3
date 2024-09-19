@@ -1,4 +1,4 @@
-# codsoft_task3
+# scientific-calculator
  an amazing interactive scientific calculator with live background music
 
- here's the live website link - https://skd19092003.github.io/codsoft_task3/
+ here's the live website link - https://github.com/skd19092003/scientific_calculator
